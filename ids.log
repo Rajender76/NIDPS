@@ -1,0 +1,4 @@
+07-04-25 17:20:24 — Port Scanning — 127.0.0.2 — 20, 21, 22, 23, 24, 25, 26 [Sequential] — 6s
+07-04-25 17:20:45 — OS Fingerprinting — 127.0.0.2 — A, AS, F, FS, S — 8s
+07-04-25 17:21:05 — SYN Flood — 127.0.0.2 — Destination Port: 80 — SYN count: 10 — 1s
+07-04-25 17:21:24 — Port Scanning — 127.0.0.2 — 1240, 1279, 1617, 1671, 2224, 3697, 4846 — 6s
